@@ -1,12 +1,12 @@
 project_path: /web/tools/_project.yaml
 book_path: /web/tools/_book.yaml
-description: Reference documentation for the "Avoids Enormous Network Payloads" Lighthouse audit.
+description: Reference documentation for the "Has Enormous Network Payloads" Lighthouse audit.
 
-{# wf_updated_on: 2017-12-11 #}
+{# wf_updated_on: 2018-02-27 #}
 {# wf_published_on: 2017-06-21 #}
 {# wf_blink_components: N/A #}
 
-# Avoids Enormous Network Payloads  {: .page-title }
+# Has Enormous Network Payloads  {: .page-title }
 
 ## Overview {: #overview }
 

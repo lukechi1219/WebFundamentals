@@ -1,12 +1,12 @@
 project_path: /web/tools/_project.yaml
 book_path: /web/tools/_book.yaml
-description: Reference documentation for the "Render-blocking stylesheets" and "Render-blocking scripts" Lighthouse audits.
+description: Reference documentation for the "Reduce render-blocking stylesheets" and "Reduce render-blocking scripts" Lighthouse audits.
 
-{# wf_updated_on: 2017-12-11 #}
+{# wf_updated_on: 2018-02-27 #}
 {# wf_published_on: 2016-12-01 #}
 {# wf_blink_components: N/A #}
 
-# Render-Blocking Resources {: .page-title }
+# Reduce Render-Blocking Resources {: .page-title }
 
 ## Overview {: #overview }
 
